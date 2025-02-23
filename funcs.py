@@ -10,7 +10,7 @@ from eyed3.id3.frames import ImageFrame
 from mutagen.id3 import ID3, COMM
 import os
 import sys
-
+#funcs
 #titles = get('title', channel_url).split('\n')[:-1]
 
 folder = 'ChiCity1Entertainment'

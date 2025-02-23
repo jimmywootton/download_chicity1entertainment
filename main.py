@@ -1,5 +1,5 @@
 from funcs import *
-
+#main
 channel_url = 'https://www.youtube.com/ChiCity1Entertainment'
 urls = get('webpage_url', channel_url).split('\n')[:-1]
 urls.reverse()
